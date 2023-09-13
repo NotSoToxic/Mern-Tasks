@@ -1,7 +1,7 @@
 # Tasks-Ethnus :computer:
 
 Welcome to Mern-Tasks! This project contains HTML and CSS tasks organized in a user-friendly format.
-![Background Image]([[[https://github.com/Rajulmahto21/Mern-Tasks/blob/main/Images/Screenshot%202023-09-13%20110535.png](https://notsotoxic.github.io/Tasks-Ethnus/)](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif))
+![Background Image]([(https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)])
 
 ## Table of Contents :bookmark_tabs:
 
