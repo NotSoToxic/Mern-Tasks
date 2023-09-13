@@ -1,7 +1,7 @@
 # Tasks-Ethnus :computer:
 
 Welcome to Mern-Tasks! This project contains HTML and CSS tasks organized in a user-friendly format.
-![Background Image]([(https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)])
+![Background Image](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
 ## Table of Contents :bookmark_tabs:
 
